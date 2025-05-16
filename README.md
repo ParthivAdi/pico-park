@@ -1,5 +1,5 @@
 # pico-park
-2D platformer game for FPGA. System Verilog implementation of the game "Pico Park".  
+2D platformer game for the AMD Urbana Board FPGA. System Verilog implementation of the game "Pico Park".  
  - Features:
     - 2 players
     - custom sprites
