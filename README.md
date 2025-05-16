@@ -1,7 +1,7 @@
 # pico-park
 2D platformer game "Pico Park" for the AMD Urbana Board FPGA. 
  - Features:
-    - 2 players
+    - multiplayer
     - custom sprites
     - physics
     - player and map collisions
