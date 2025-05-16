@@ -1,0 +1,2 @@
+spring_rom.v,verilog,xil_defaultlib,../../../../lab6_1.gen/sources_1/ip/spring_rom/sim/spring_rom.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

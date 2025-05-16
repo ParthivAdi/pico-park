@@ -1,0 +1,16 @@
+timestamp=[2025-03-11 00:19:54], mode=WORKBENCH_START, duration=0:00:10.749, duration_ms=10749, data={}
+timestamp=[2025-03-11 00:19:55], mode=WORKBENCH_UI_INIT, duration=0:00:01.099, duration_ms=1099, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2025-03-11 00:19:56], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.098, duration_ms=98, data={}
+timestamp=[2025-03-11 00:57:20], mode=APP_CREATION, duration=0:00:08.582, duration_ms=8582, data={name=mb_blink, project_type=sdk, os=standalone, processor=microblaze, runtime=cpp, platform=mb_intro_top, application_type=application}
+timestamp=[2025-03-11 14:09:47], mode=PLATFORM_GENERATION, duration=0:00:09.466, duration_ms=9466, data={name=mb_intro_top}
+timestamp=[2025-03-11 14:09:51], mode=BUILD, duration=0:00:03.761, duration_ms=3761, data={name=mb_blink, configuration=Debug, clean_build=false}
+timestamp=[2025-03-11 14:14:57], mode=BUILD, duration=0:00:01.742, duration_ms=1742, data={name=mb_blink, configuration=Debug, clean_build=false}
+timestamp=[2025-03-25 15:20:36], mode=WORKBENCH_START, duration=0:00:12.842, duration_ms=12842, data={}
+timestamp=[2025-03-25 15:20:38], mode=WORKBENCH_UI_INIT, duration=0:00:01.313, duration_ms=1313, data={editors_count=4, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,mb_blink,mb_blink_system,mb_intro_top}
+timestamp=[2025-03-25 15:20:38], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.158, duration_ms=158, data={}
+timestamp=[2025-03-26 10:39:54], mode=WORKBENCH_START, duration=0:00:13.464, duration_ms=13464, data={}
+timestamp=[2025-03-26 10:39:55], mode=WORKBENCH_UI_INIT, duration=0:00:01.612, duration_ms=1612, data={editors_count=11, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,mb_blink,mb_blink_system,mb_intro_top}
+timestamp=[2025-03-26 10:39:55], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.207, duration_ms=207, data={}
+timestamp=[2025-03-27 21:36:26], mode=WORKBENCH_START, duration=0:00:11.557, duration_ms=11557, data={}
+timestamp=[2025-03-27 21:36:27], mode=WORKBENCH_UI_INIT, duration=0:00:00.901, duration_ms=901, data={editors_count=11, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,mb_blink,mb_blink_system,mb_intro_top}
+timestamp=[2025-03-27 21:36:28], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.176, duration_ms=176, data={}

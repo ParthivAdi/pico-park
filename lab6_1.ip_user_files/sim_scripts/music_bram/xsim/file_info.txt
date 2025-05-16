@@ -1,0 +1,2 @@
+music_bram.v,verilog,xil_defaultlib,../../../../lab6_1.gen/sources_1/ip/music_bram/sim/music_bram.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v
